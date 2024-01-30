@@ -1,0 +1,21 @@
+body {
+    --bs-body-font-family: var(--bs-font-arial);
+    --bs-body-line-height: 2.4;
+}
+/**
+--bs-body-bg: var(--bs-black-100);
+    **/
+   h2{
+    font-family: monospace;
+    
+   }
+   h1 b{
+    font-family:monospace;
+   }
+   div{
+    text-align: center
+   }
+
+   img div {
+    text-align: center;
+   }
